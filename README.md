@@ -2,11 +2,6 @@
 
 I am Mushaidul Islam 😀. A CS grad student currently working as full-time software engineer 💻 . Please feel free to connect with me for any collaboration or work.
 
-I'm currently learning :
-a) Web3
-b) Golang
-c) Ruby
-
 <!--
 **mushaidul/mushaidul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
