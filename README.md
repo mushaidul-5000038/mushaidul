@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there good people 👋
+
+I am Mushaidul Islam 😀. A CS grad student currently working as full-time software engineer 💻 . Please feel free to connect with me for any collaboration or work.
+
+I'm currently learning :
+a) Web3
+b) Golang
+c) Ruby
 
 <!--
 **mushaidul/mushaidul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushaidul&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
